@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(218, 96, 4);
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    background-color: rgb(218, 96, 4);
+}
+
+.row {
+    text-align: center;
+}
+
+.container-fluid {
+    background-color: rgb(3, 107, 107);
+
+}
+
+.btn {
+    background-color: grey;
+    border: 1px solid;
+    border-radius: 2px;
+}
+
+.input-group-append {
+    display: inline;
+
+}
+
+#search-button {
+    background-color: rgb(1, 34, 33);
+    width: 10%;
+    color: white;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 2px;
+    padding-bottom: 5px;
+}
+
+#history {
+    color: grey;
+    padding-bottom: 5px;
+}
+
+#searh-button:hover {
+    color: blue;
+}
